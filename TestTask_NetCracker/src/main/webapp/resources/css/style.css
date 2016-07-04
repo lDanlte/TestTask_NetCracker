@@ -1,0 +1,12 @@
+
+.row {
+    margin-top: 15px;
+}
+
+table > tbody > tr:hover {
+    background-color: #faebcc !important;
+}
+
+.activeElem {
+    background-color: #eb9316 !important;
+}
